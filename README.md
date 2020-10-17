@@ -2,7 +2,7 @@
 
 #### Frederick here
 
-I love working on a projct with others ✨
+I love working on a projcet with others ✨
 
 💬 Ask me about Cimple or AppleGOD aka java/php.
 
