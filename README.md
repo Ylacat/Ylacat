@@ -2,6 +2,7 @@
 
 ##"Frederick here"
 I love working on a projct with others ✨
+
 💬 Ask me about Cimple or AppleGOD aka java/php.
 
 ⚡ Fun fact: The Danish government still uses Windows XP and Vista. And they are afrid to update.
