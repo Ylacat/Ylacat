@@ -1,7 +1,13 @@
 ### Hi there 👋
 
-<!--
-**Ylacat/Ylacat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##"Frederick here"
+I love working on a projct with others ✨
+💬 Ask me about Cimple or AppleGOD aka java/php.
+
+⚡ Fun fact: The Danish government still uses Windows XP and Vista. And they are afrid to update.
+⚡ Fun fact: The Danish police uses spicial made file formats to secure audio recorinds (It's really just wav).
+
+<!-- **Ylacat/Ylacat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
