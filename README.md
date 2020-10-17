@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-##"Frederick here"
+##Frederick here
+
 I love working on a projct with others ✨
 
 💬 Ask me about Cimple or AppleGOD aka java/php.
