@@ -5,7 +5,7 @@
 #### Frederick here
 
 - ✨I love working on a project with others 
-- 💬 Ask me about Cimple or AppleGOD aka java/php.
+- 💬 Ask me about [cimple](https://github.com/ylacat/cimple) or [AppleGOD](https://github.com/ylacat/applegod) aka java/php.
 - ⚡ Fun fact: The Danish government still uses Windows XP and Vista. And they are afrid to update.
 - ⚡ Fun fact: The Danish police uses spicial made file formats to secure audio recorinds (It's really just wav).
 
