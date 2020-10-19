@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="right" src="https://tacaly.com/wp-content/uploads/2020/05/tacaly_new_logo-300x300.png" width="260">
+
 #### Frederick here
 
 I love working on a project with others ✨
