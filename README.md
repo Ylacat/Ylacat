@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ylacat&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ylacat&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="right" src="https://tacaly.com/wp-content/uploads/2020/05/tacaly_new_logo-300x300.png" width="260">
 
